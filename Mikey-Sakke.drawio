@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-12-03T16:38:40.241Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="yNqHkFpme0MPzjIfiXvz" version="15.8.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-12-03T16:57:14.260Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.55 Safari/537.36 Edg/96.0.1054.34" etag="qAGvPcfrS6GQsj2JCz49" version="15.8.9" type="github">
   <diagram id="l3p4Nn8vqsSgMRRzXjVc" name="Page-1">
     <mxGraphModel dx="2862" dy="1522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -73,7 +73,7 @@
         <mxCell id="-JY_Ss09dYT9bE0t_H_c-21" value="It isn&#39;t the device that is authenticated, it is the identity. Therefore auto-enrollment should be possible??" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;spacingLeft=32;spacingRight=30;" vertex="1" parent="1">
           <mxGeometry x="853" y="-196" width="230" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="-JY_Ss09dYT9bE0t_H_c-22" value="&lt;ul&gt;&lt;li&gt;Is there a risk for ESN, related to the capture or eavesdropping of metadata?&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
+        <mxCell id="-JY_Ss09dYT9bE0t_H_c-22" value="&lt;ul&gt;&lt;li&gt;Is there a risk for ESN, related to the capture or eavesdropping of metadata?&lt;/li&gt;&lt;li&gt;For what length of time will the encrypted data be kept? Although this is a Government system, does GDPR have a bearing here, or is ESN exempt?&lt;/li&gt;&lt;/ul&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;fillColor=#f8cecc;strokeColor=#b85450;align=left;" vertex="1" parent="1">
           <mxGeometry x="71" y="-319" width="425" height="151" as="geometry" />
         </mxCell>
       </root>
